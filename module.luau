@@ -1,3 +1,5 @@
+--!strict
+
 type Node = {
 	key:       string,
 	value:     any,
